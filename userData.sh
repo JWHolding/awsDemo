@@ -14,4 +14,3 @@ cd /var/www/
 rm -rf html
 wget https://s3.eu-west-2.amazonaws.com/qacfridayexample/html.zip
 unzip html
-mv NBGardens html
